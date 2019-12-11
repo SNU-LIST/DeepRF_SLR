@@ -1,6 +1,10 @@
 # DeepRF_SLR
 
-DeepRF_SLR is a multiband spin-echo pulse design program based on the SLR algorithm [1] and deep reinforcement learning. For more information, refer to the [submitted paper]()
+DeepRF_SLR is multiband spin-echo pulse design method based on the SLR algorithm [1] and deep reinforcement learning. For more information, refer to the [submitted paper]()
+
+## Method
+
+## Results
 
 ## Prerequisites
 
@@ -43,7 +47,7 @@ This will generate 'MC_design_result.mat' that contains design results.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Acknowledgement
 
@@ -51,9 +55,16 @@ For implementation of DeepRF_SLR, we adopted and modifed MATLAB codes from:
 1. [Root-flipped pulse design functions from Sharma's work](http://www.vuiis.vanderbilt.edu/~grissowa/) [2]
 2. [Basic RF design functions from John Pauly's lab in Stanford](http://rsl.stanford.edu/research/software.html)
 3. [Amplitude modulated pulse design functions from Seada's work](https://github.com/mriphysics/AM_multiband/) [3]
+Thank you for all sharing his/her works!
 
 ## References
 
 1. J. Pauly, P. Le Roux, D. Nishimura, and A. Macovski, “Parameter relations for the Shinnar-Le Roux selective excitation pulse design algorithm,” IEEE Trans. Med. Imag., vol. 10, no. 1, pp. 53-65, Mar. 1991.
 2. A. Sharma, M. Lustig, and W. A. Grissom, “Root‐flipped multiband refocusing pulses,” Magn. Reson. Med., vol. 75, no. 1, pp. 227-237, Jan. 2016.
 3. S. Abo Seada, A. N. Price, J. V. Hajnal, and S. J. Malik, “Optimized amplitude modulated multiband RF pulse design,” Magn. Reson. Med., vol. 78, no. 6, pp. 2185-2193, Dec. 2017.
+
+## Contact
+
+Dongmyung Shin, Ph.D. candidate, Seoul National University.
+shinsae11@gmail.com
+http://list.snu.ac.kr
