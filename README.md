@@ -54,7 +54,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For implementation of DeepRF_SLR, we adopted and modifed MATLAB codes from:
 1. [Root-flipped pulse design functions from Sharma's work](http://www.vuiis.vanderbilt.edu/~grissowa/) [2]
 2. [Basic RF design functions from John Pauly's lab in Stanford](http://rsl.stanford.edu/research/software.html)
-3. [Amplitude modulated pulse design functions from Seada's work](https://github.com/mriphysics/AM_multiband/) [3]  
+3. [Amplitude modulated pulse design functions from Seada's work](https://github.com/mriphysics/AM_multiband/) [3]
+
 Thank you for all sharing softwares!
 
 ## References
