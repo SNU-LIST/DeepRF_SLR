@@ -65,6 +65,6 @@ Thank you for all sharing his/her works!
 
 ## Contact
 
-Dongmyung Shin, Ph.D. candidate, Seoul National University.
-shinsae11@gmail.com
+Dongmyung Shin, Ph.D. candidate, Seoul National University.  
+shinsae11@gmail.com  
 http://list.snu.ac.kr
