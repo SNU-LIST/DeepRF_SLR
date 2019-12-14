@@ -4,7 +4,7 @@ DeepRF_SLR is multiband spin-echo pulse design method based on the SLR algorithm
 
 ## Method
 
-![Method_figure](http://https://github.com/SHINDONGMYUNG/DeepRF_SLR/edit/master/Figures/figure2_12.tif)
+![Method_figure](http://https://github.com/SHINDONGMYUNG/DeepRF_SLR/Figures/figure2_12.tif)
 
 ## Results
 
