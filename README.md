@@ -12,7 +12,8 @@ DeepRF_SLR is multiband spin-echo pulse design method based on the SLR algorithm
 
 ## Prerequisites
 
-Before running DeepRF_SLR, you need to install,
+At least one NVIDIA GPU is needed, which supporting CUDA 10.1.
+You need to install following softwares:
 1. Ubuntu 18.04.2 LTS
 2. MATLAB 2019a
 3. CVX package (http://cvxr.com/cvx/)
@@ -44,10 +45,10 @@ To see the design result,
 You can see the pulse shapes and simulated slice profile.  
 'DeepRF_SLR_design_result.mat' will be generated, which contains many datas including RF pulses.
 
-For comparison, we uploaded MATLAB script for the Monte-Carlo algorithm [2].  
+For comparison, we uploaded MATLAB script for the conventional Monte-Carlo algorithm [2].  
 > run 'Monte_Carlo_design.m' in MATLAB.  
 
-This will generate 'MC_design_result.mat' that contains design results.
+This will generate 'MC_design_result.mat' that includes RF pulses.
 
 ## License
 
