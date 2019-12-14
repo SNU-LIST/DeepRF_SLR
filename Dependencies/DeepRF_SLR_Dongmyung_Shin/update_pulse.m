@@ -6,7 +6,7 @@ function [rfmag, rfangle, rt] = update_pulse(rt,pattern,idxPass,N,d1)
 % Subsantial amount of code adopted from here:
 %   1) http://www.vuiis.vanderbilt.edu/~grissowa/
 %   2) http://rsl.stanford.edu/research/software.html
-%   3) https://github.com/mrphysics/AM_multiband/
+%   3) https://github.com/mriphysics/AM_multiband/
 %
 % Corresponding paper:
 %   1) A Sharma, M Lustig, and W A Grissom. 

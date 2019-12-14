@@ -23,7 +23,7 @@ import time
 parser = argparse.ArgumentParser()
 parser.add_argument('NB', type = int, help = 'Number of bands')
 parser.add_argument('TBW', type = int, help = 'Time-bandiwdth product')
-parser.add_argument('BS', type = int, help = 'N times of slice thickenss (e.g. 6->500%)')
+parser.add_argument('BS', type = int, help = 'N times of slice thickenss')
 parser.add_argument('--gpu', type = int, default = 0, help = 'activiated GPU number when having multiple GPUs (default=0)')
 parser.add_argument('--lr', type = float, default = 1e-4, help = 'learning rate (default=1e-4)')
 parser.add_argument('--nn', type = int, default = 256, help = 'number of node for each hidden layer (default=256)')
