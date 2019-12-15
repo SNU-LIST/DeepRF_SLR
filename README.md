@@ -8,6 +8,7 @@ DeepRF_SLR is multiband spin-echo pulse design method based on the SLR algorithm
 
 ## Results
 
+e.g., For number of bands (NB) = 7 and time-bandwidth prodcut = 6 refocusing pulse,
 ![result_figure](/Figures/result_figure.png)
 
 ## Prerequisites
