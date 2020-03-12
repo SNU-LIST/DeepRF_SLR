@@ -51,10 +51,6 @@ For comparison, we uploaded MATLAB script for the conventional Monte-Carlo algor
 
 This will generate 'MC_design_result.mat' that includes RF pulses.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
-
 ## Acknowledgement
 
 For implementation of DeepRF_SLR, we adopted and modifed MATLAB codes from:
@@ -69,6 +65,18 @@ Thank you for all sharing softwares!
 1. J. Pauly, P. Le Roux, D. Nishimura, and A. Macovski, “Parameter relations for the Shinnar-Le Roux selective excitation pulse design algorithm,” IEEE Trans. Med. Imag., vol. 10, no. 1, pp. 53-65, Mar. 1991.
 2. A. Sharma, M. Lustig, and W. A. Grissom, “Root‐flipped multiband refocusing pulses,” Magn. Reson. Med., vol. 75, no. 1, pp. 227-237, Jan. 2016.
 3. S. Abo Seada, A. N. Price, J. V. Hajnal, and S. J. Malik, “Optimized amplitude modulated multiband RF pulse design,” Magn. Reson. Med., vol. 78, no. 6, pp. 2185-2193, Dec. 2017.
+
+## License
+
+We provide software for academic research purpose only and NOT for commercial or clinical use.  
+For commercial use of our software, contact us (snu.list.software@gmail.com) for licensing via Seoul National University.  
+Please send an email  to “snu.list.software@gmail.com” with the following information.  
+  
+Name:  
+Affiliation:  
+Software:  
+  
+When sending an email, an academic e-mail address (e.g. .edu, .ac.) is required.  
 
 ## Contact
 
