@@ -44,12 +44,12 @@ To see the design result,
 > run 'DeepRF_SLR_result_generation.m' in MATLAB.  
 
 You can see the pulse shapes and simulated slice profile.  
-'DeepRF_SLR_design_result.mat' will be generated, which contains many datas including RF pulses.
+'DeepRF_SLR_design_result.mat' will be generated, which contains many datas including designed pulse.
 
 For comparison, we uploaded MATLAB script for the conventional Monte-Carlo algorithm [2].  
 > run 'Monte_Carlo_design.m' in MATLAB.  
 
-This will generate 'MC_design_result.mat' that includes RF pulses.
+This will generate 'MC_design_result.mat' that includes designed pulse.
 
 ## Acknowledgement
 
