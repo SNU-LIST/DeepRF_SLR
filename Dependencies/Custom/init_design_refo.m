@@ -1,22 +1,4 @@
-function [bp,d1,tb,r,N] = min_phase_design(n,tblin,d1,d2,bandsep,nb)
-
-% function to design initial minimum phase pulse for root-flipping
-% 
-% Subsantial amount of code adopted from here:
-%   1) http://www.vuiis.vanderbilt.edu/~grissowa/
-%   2) http://rsl.stanford.edu/research/software.html
-%   3) https://github.com/mriphysics/AM_multiband/
-%
-% Corresponding paper:
-%   1) A Sharma, M Lustig, and W A Grissom. 
-%      Root-flipped multiband refocusing pulses. 
-%      Magn Reson Med 2016.
-%   2) Abo Seada, S., Price, A. N., Hajnal, J. V., & Malik, S. J. 
-%      Optimized amplitude modulated multiband RF pulse design. 
-%      Magn Reson Med 2017.
-%
-% Modified at 2018 by Dongmyung Shin, Seoul National University
-% shinsae11@gmail.com, http://list.snu.ac.kr
+function [bp,d1,tb,r,N] = init_design_refo(n,tblin,d1,d2,bandsep,nb)
 
 % directly design a MB min-phase filter, whose roots we can flip
 d1 = d1/4; % target beta passband ripple, considering full 90-180 pair

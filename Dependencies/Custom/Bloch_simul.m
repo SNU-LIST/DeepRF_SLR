@@ -1,9 +1,8 @@
-%
-% Bloch simulator implemented by Minju Jo,
-% modified by Dongmyung Shin, Seoul National University
-% Laboratory for Imaging Science and Technology (LIST), 2018
-% shinsae11@gmail.com, http://list.snu.ac.kr
-%
+% origianlly from Minju Jo
+% modified by Dongmyung Shin
+% Seoul National University
+% Laboratory for Imaging Science and Technology (LIST), 2019
+
 
 function [Mx,My,Mz] = Bloch_simul(x,y,z,T1,T2,RF,Gz,time_step,slice_thick,spatial_point)
 
